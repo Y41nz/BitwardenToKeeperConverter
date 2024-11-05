@@ -1,7 +1,7 @@
 ![Logo](./Logo.jpg)
 # Bitwarden to Keeper Conversion Script
 
-This project is a modification of the original Bitwarden-to-Keeper script created by [Nam Namir](https://github.com/namnamir/Bitwarden-to-Keeper). The script has been modified by [Your Name] to add functionality for targeting specific folders and subcollections during migration.
+This project is a modification of the original Bitwarden-to-Keeper script created by [Nam Namir](https://github.com/namnamir/Bitwarden-to-Keeper). The script has been modified by [Y41nz] to add functionality for targeting specific folders and subcollections during migration.
 
 ## License
 
